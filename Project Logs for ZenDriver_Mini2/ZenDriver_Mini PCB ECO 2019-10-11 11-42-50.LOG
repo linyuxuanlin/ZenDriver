@@ -1,0 +1,12 @@
+Added Component: Designator=D5(*DIOAD810W51L378D176P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_8535.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LL-34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C8056"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=5VOUT Pin=D5-2
+Added Member To Class: ClassName=ZenDriver_Mini Member=Component D5 JANTX1N751AUR-1
+Added Room: Name=ZenDriver_Mini

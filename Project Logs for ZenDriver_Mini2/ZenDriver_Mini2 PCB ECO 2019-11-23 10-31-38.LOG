@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P3 Old Footprint=XT30UPB-F New Footprint=XT30PW-F
+Change Component Footprint: Designator=P2 Old Footprint=XT30UPB-M New Footprint=XT30PW-M
+Change Component Comment : Designator=P2 Old Comment=XT30PW_F New Comment=XT30PW_M
+Change Component Comment : Designator=P1 Old Comment=XT60PW-F New Comment=XT60PW-M
+Added Room: Name=ZenDriver_Mini2

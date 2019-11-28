@@ -1,0 +1,48 @@
+Change Component Comment : Designator=Rp3 Old Comment=1KΩ (102) ±5% New Comment=2KΩ (202) ±5%
+Change Component Comment : Designator=Rp2 Old Comment=2KΩ (202) ±5% New Comment=1KΩ (102) ±5%
+Change Component Designator: OldDesignator=R13 NewDesignator=R1
+Added Component: Designator=D6(0603_LED_S1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2659.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C2286"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23752.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C23025"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D6-K
+Added Pin To Net: NetName=5VOUT Pin=R2-2
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=R2-1
+Added Net: Name=NetD6_A
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component 2501-2
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component C1 220uF
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component C2 22pF (220) 5% 50V
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component C3 100nF (104) 10% 50V
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component C4 100nF (104) 10% 50V
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component C5 22pF (220) 5% 50V
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component D1 M7
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component D2 M7
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component D3 M7
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component D4 M7
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component D5 JANTX1N751AUR-1
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component D6 红灯 0603
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component J1 3.81
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component J2 3.81
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component M Header 6H
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component R1 75Ω (75R0) ±1%
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component R2 300Ω (3000) ±1%
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component Rp1 10KΩ (103) ±5%
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component Rp2 1KΩ (102) ±5%
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component Rp3 2KΩ (202) ±5%
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component SIG Header 6H
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component U1 BTN7971
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component U2 BTN7971
+Added Room: Name=ZenDriver_Mini2

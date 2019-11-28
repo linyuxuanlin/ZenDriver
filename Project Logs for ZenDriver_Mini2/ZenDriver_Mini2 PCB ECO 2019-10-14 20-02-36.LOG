@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=B2 Pin=R1-1
+Removed Pin From Net: NetName=IN2 Pin=R1-2
+Removed Pin From Net: NetName=A2 Pin=R2-1
+Removed Pin From Net: NetName=IN1 Pin=R2-2
+Removed Pin From Net: NetName=A3 Pin=R3-1
+Removed Pin From Net: NetName=5VOUT Pin=R3-2
+Removed Pin From Net: NetName=B3 Pin=R4-1
+Removed Pin From Net: NetName=5VOUT Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=B5 Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=A5 Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=Net2501-2_2 Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=Net2501-2_4 Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=IN2 Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=A6 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=IN1 Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=B6 Pin=R12-2
+Removed Pin From Net: NetName=M+ Pin=U1-4
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R1
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R2
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R3
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R4
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R5
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R6
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R7
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R8
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R9
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R10
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R11
+Removed Member From Class: ClassName=ZenDriver_Mini2 Member=R12
+Added Component: Designator=Rp1(0603_Rx4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_30472.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603*4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C29718"; VariantName = "[No Variations]"
+Added Component: Designator=Rp2(0603_Rx4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_20907.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603*4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C20197"; VariantName = "[No Variations]"
+Added Component: Designator=Rp3(0603_Rx4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_20907.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603*4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C20197"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B2 Pin=Rp1-1
+Added Pin To Net: NetName=A2 Pin=Rp1-2
+Added Pin To Net: NetName=A3 Pin=Rp1-3
+Added Pin To Net: NetName=B3 Pin=Rp1-4
+Added Pin To Net: NetName=5VOUT Pin=Rp1-5
+Added Pin To Net: NetName=5VOUT Pin=Rp1-6
+Added Pin To Net: NetName=IN1 Pin=Rp1-7
+Added Pin To Net: NetName=IN2 Pin=Rp1-8
+Added Pin To Net: NetName=GND Pin=Rp2-1
+Added Pin To Net: NetName=GND Pin=Rp2-2
+Added Pin To Net: NetName=GND Pin=Rp2-3
+Added Pin To Net: NetName=GND Pin=Rp2-4
+Added Pin To Net: NetName=Net2501-2_4 Pin=Rp2-5
+Added Pin To Net: NetName=Net2501-2_2 Pin=Rp2-6
+Added Pin To Net: NetName=A5 Pin=Rp2-7
+Added Pin To Net: NetName=B5 Pin=Rp2-8
+Added Pin To Net: NetName=GND Pin=Rp3-1
+Added Pin To Net: NetName=GND Pin=Rp3-2
+Added Pin To Net: NetName=GND Pin=Rp3-3
+Added Pin To Net: NetName=GND Pin=Rp3-4
+Added Pin To Net: NetName=B6 Pin=Rp3-5
+Added Pin To Net: NetName=IN1 Pin=Rp3-6
+Added Pin To Net: NetName=A6 Pin=Rp3-7
+Added Pin To Net: NetName=IN2 Pin=Rp3-8
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component Rp1 10KΩ (103) ±5%
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component Rp2 2KΩ (202) ±5%
+Added Member To Class: ClassName=ZenDriver_Mini2 Member=Component Rp3 1KΩ (102) ±5%
+Added Room: Name=ZenDriver_Mini2
